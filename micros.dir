@@ -1,0 +1,10 @@
+Full tree                                     ‰   ‰fullTree.h
+    Implementation                            ‰   ‰fullTree.cpp
+Trees generation                              ‰   ‰catalan.h
+    Implementation                            ‰   ‰catalan.cpp
+Make 100 from a given number                  ‰   ‰tick100.cpp
+Find bad numbers + numbers that need un.minus ‰   ‰badNumbers.cpp
+Check zeroes                                  ‰   ‰checkZero.cpp
+                                              ‰   ‰
+Test                                          ‰   ‰catalanTst.cpp
+Makefile                                      ‰   ‰Makefile
